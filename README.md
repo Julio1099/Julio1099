@@ -3,6 +3,8 @@
 - 👽 Iniciante no mundo da programação
 - 🎓 Estudante de Engenharia de Software na Universidade de Brasília (UnB)
 
+mds
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlio-cesar-4b852a208/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_juliocesar_99)
 
